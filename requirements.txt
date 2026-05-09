@@ -2,20 +2,20 @@
 ultralytics
 torch
 torchvision
-opencv-python==4.8.1.78
+opencv-python
 
 # Web Framework
-streamlit==1.28.1
-streamlit-option-menu==0.3.6
+streamlit
+streamlit-option-menu
 
 # Data & Visualization
-pillow==10.1.0
-numpy==1.24.3
-pandas==2.1.3
-plotly==5.18.0
+pillow
+numpy
+pandas
+plotly
 
 # PDF Generation
-fpdf2==2.7.1
+fpdf2
 
 # Utilities
-python-dotenv==1.0.0
+python-dotenv
