@@ -2,7 +2,7 @@
 ultralytics
 torch
 torchvision
-opencv-python
+opencv-python-headless
 
 # Web Framework
 streamlit
@@ -13,9 +13,13 @@ pillow
 numpy
 pandas
 plotly
+matplotlib
 
 # PDF Generation
 fpdf2
+
+# XAI
+grad-cam
 
 # Utilities
 python-dotenv
